@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JSTL_sql_param_label:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>JSTL_sql_param_label</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="JSTL_sql_param_label-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JSTL_sql_param_label:war exploded" />
+    </root>
+  </artifact>
+</component>
